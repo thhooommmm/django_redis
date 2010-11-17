@@ -1,0 +1,1 @@
+A basic session engine and cache backend implementation for django using redis as the data storage backend. Very early revisions. Test Units and a sample app to come soon...along with some documentation.
